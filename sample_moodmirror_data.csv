@@ -1,0 +1,8 @@
+date,mood,mood_label,stress,energy,sleep_hours,social,outside,exercise,main_factor,note
+2026-09-17,3,😐 Okay,4,2,5.5,A little connected,False,False,School,Busy assignment day.
+2026-09-18,2,😔 Low,5,2,5.0,Not connected,False,False,School,Felt overwhelmed.
+2026-09-19,3,😐 Okay,3,3,7.0,Connected,True,True,Social life,Went outside with friends.
+2026-09-20,4,🙂 Good,2,4,8.0,Connected,True,True,Nothing specific,Relaxed weekend.
+2026-09-21,2,😔 Low,4,2,5.5,A little connected,False,False,School,Deadline pressure.
+2026-09-22,2,😔 Low,5,2,5.0,Not connected,False,False,School,Long study day.
+2026-09-23,2,😔 Low,4,2,5.5,A little connected,True,False,School,Still stressed but took a short walk.
